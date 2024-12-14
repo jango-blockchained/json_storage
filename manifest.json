@@ -1,0 +1,11 @@
+{
+    "domain": "json_storage",
+    "name": "JSON Storage",
+    "version": "1.0.0",
+    "documentation": "https://github.com/yourusername/json_storage",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": [],
+    "config_flow": true,
+    "iot_class": "local_polling"
+}
